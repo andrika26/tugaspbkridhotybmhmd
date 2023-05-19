@@ -1,6 +1,6 @@
 <template>
     <div id="app">
-      <h1>To-do list app - Ridho Thoyib Muhammad</h1>
+      <h1>To-do list app - andrikha ramadhon</h1>
       <div class="input-container">
         <input type="text" v-model="newTask" placeholder="Input data..." />
         <button @click="addTask">+</button>
